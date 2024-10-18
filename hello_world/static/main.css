@@ -22,7 +22,7 @@ body {
   }
   
   .App-header {
-    background-color: #282c34;
+    background-color: #630d6b;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
@@ -37,7 +37,8 @@ body {
   }
   
   .heart {
-    color: #ff0000;
+    color: #f80505;
+    font-size: 5em;
   }
   
   .small {
